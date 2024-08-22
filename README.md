@@ -1,4 +1,4 @@
-**Splitwise-CashFlow-Minimizer**
+****Splitwise-CashFlow-Minimizer****
 
 **Overview**
 The Splitwise-CashFlow-Minimizer is a C++ implementation designed to simplify group expense settlements. This project helps reduce the total number of transactions required to settle debts among a group of people, making it easier to manage shared expenses. By optimizing the cash flow, it ensures that the minimum number of payments is made, saving time and reducing complexity.
